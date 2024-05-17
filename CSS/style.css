@@ -1,0 +1,442 @@
+/* Home page */
+#map {
+    width: 50px;
+
+}
+
+#you {
+    background-color: orange;
+    border-radius: 40px;
+    padding: 5px 10px 5px 10px;
+
+}
+
+#me {
+    color: orange;
+}
+
+.Heroimg {
+    width: 180px;
+    height: 300px;
+    border-radius: 30px;
+    vertical-align: top;
+
+}
+
+#Heroimg {
+    margin-top: 30px;
+
+}
+
+#two {
+    width: 180px;
+    height: 300px;
+    border-radius: 30px;
+    margin-top: 20px
+}
+#icon-1 {
+    color: red;
+
+}
+.it {
+    margin-top: 20px;
+    color: white;
+}
+.ten {
+    padding-left: 10px;
+    display: flex;
+    box-shadow: 0px 0px 10px;
+    height: 80px;
+    width: 750px;
+    margin-left: 100px;
+    border-radius: 50px;
+    margin-top: 50px;
+}
+.Icon_search1{
+    border-left: 1px solid rgb(97, 97, 97);
+    border-right: 1px solid rgb(97, 97, 97);
+    margin-right: 50px;
+    padding-left: 20px;
+}
+.types {
+    background-color: orange;
+    margin-left: 50px;
+    padding: 5px 10px 10px 10px;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
+.ten .Icon_search .Icon_search1 {
+    border-right: 1px solid grey;
+    padding-right: 60px;
+    padding-left: 3rem;
+    border: none;
+    outline: none;
+    cursor: text;
+    border: hidden;
+}
+/* image hover */
+.section-1 img:hover {
+    transform: scale(1.1); 
+    transition: transform 0.3s ease; 
+  }
+
+  .react{
+    border-right: 1px solid orange;
+    border-bottom: 1px solid orange;
+    border-radius: 5px;
+
+}
+ .libery{
+    border-bottom: none;
+}
+.main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+
+#weather {
+    font-size: 30px;
+    background-color: orange;
+    padding: 8px 8px 8px 8px;
+    color: white;
+    border-radius: 30px;
+
+}
+
+#head {
+    color: rgb(239, 107, 107);
+}
+.services {
+    display: flex;
+    gap: 100px;
+    margin-left: 100px;
+    margin-top: 80px;
+    width: 1100px;
+    
+
+}
+
+#par-1 {
+    border: none;
+}
+
+#exp {
+    background-color: orange;
+    width: 100px;
+    height: 30px;
+    padding: 5px 5px 10px 10px;
+    border-radius: 40px;
+}
+
+#one-k {
+    background-color: orangered;
+    color: white;
+    width: 70px;
+    padding: 13px 5px 13px 13px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.exp-3 {
+    display: flex;
+    gap: 80px;
+}
+
+.boy-1 {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 50px;
+    gap: 150px;
+}
+
+#explore {
+    background-color: orange;
+    padding: 8px 8px 13px 13px;
+    width: 90px;
+    height: 40px;
+    border-radius: 30px;
+
+}
+
+
+.featured {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+#gallery {
+    background-color: orange;
+    width: 90px;
+    height: 40px;
+    padding: 8px 8px 8px 8px;
+    border-radius: 40px;
+}
+#beach-1 {
+    width: 260px;
+    border-radius: 20px;
+}
+
+#beach-2 {
+    width: 270px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#beach-3 {
+    width: 280px;
+    height: 220px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+#beach-4 {
+    width: 280px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+#beach-5 {
+    width: 260px;
+    border-radius: 20px;
+
+}
+
+#beach-6 {
+    width: 280px;
+    margin-bottom: 230px;
+    margin-left: 15px;
+    border-radius: 20px;
+}
+
+#beach-7 {
+    width: 280px;
+    margin-left: 20px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+#beach-8 {
+    width: 260px;
+    margin-left: 30px;
+    border-radius: 20px;
+    margin-bottom: 80px;
+}
+
+.enjoy {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.blue{
+    background-color: rgb(180, 223, 239);
+    width: 1240px;
+    height: 330px;
+    margin-top: 100px;
+    display: flex;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+#tourist{
+    margin-left: 100px;
+    width: 70%;
+}
+.now{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+#toy{
+    border: none;
+    padding: 10px 280px 10px 10px;
+}
+#btn{
+    padding: 7px 20px 7px 20px;
+    background-color: orange;
+    color: white;
+    border: 1px solid orange;
+    border-radius: 5px;
+    position: absolute;
+    top: 519.5%;
+    right: 685px;
+    margin-top: 5px;
+}
+/* Footer */
+.footer-one{
+    display: flex;
+    gap: 150px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+/* Tour page */
+#all{
+    width: 1250px;
+    height: 450px;
+    border-radius: 10px;
+}
+#to{
+    margin-left: 45%;
+    margin-bottom: 30px;
+    position: absolute;
+    top: 200px;
+    color: white;
+}
+#welcome{
+    position: absolute;
+    padding: 5px 15px 5px 15px;
+    top: 920px;
+    left: 38%;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+#color{
+    color: orange;
+}
+
+/* CarouselSlider */
+#slide{
+    width: 50px;
+}
+.sliker img{
+    width: 50px;
+}
+#manager{
+    background-color: orange;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    
+}
+.new-one{
+    margin-left: 100px;
+}
+
+
+/* Register */
+.zip-file{
+    margin-top: 40px; 
+ }
+.one-or-two{
+    width: 400px;
+}
+#user-icon{
+    width: 90px;
+    position: relative;
+    margin-bottom: 0px;
+}
+#ait{
+    padding-left: 40px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+    margin-left: 110px;
+    background-color: black;
+    color: white;
+}
+#ij{
+    margin-left: 130px;
+    margin-top: 20px;
+    color: white;
+}
+#own{
+    margin-left: 30%;
+}
+#cd{
+    margin-left: 170px;
+    margin-top: 20px;
+    color: white;
+}
+#ef{
+    margin-left: 110px;
+    border: none;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+/* Login Page  */
+.two-in-one{
+    display: flex;
+    margin-left: 180px;
+    margin-top: 100px; 
+}
+.one-or-two{
+    background-color: rgb(242, 90, 250);
+    width: 33%;
+    height:410px;
+}
+#user-icon{
+    width: 15%;
+    margin-left: 180px;
+}
+#gh{
+    margin-left: 110px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+}
+#explain{
+    width: 30%;
+    background-color: rgb(141, 203, 230);
+}
+#email{
+    border: none;
+}
+#my-name{
+    color: orange;
+}
+#kl{
+    color: black;
+}
+
+/*  */
+#love {
+    background-color: orange;
+    width: 140px;
+    height: 30px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+
+#pic-1 {
+    width: 90px;
+    border-radius: 10px;
+}
+
+#jhon-1 {
+    width: 80px;
+}
+
+.blog {
+    display: flex;
+}
+
+.disc {
+    display: flex;
+
+}
+
+.side {
+    margin-left: 30px;
+}
+
+.say {
+    display: flex;
+}
+
+.Clients {
+    display: flex;
+    gap: 120px;
+}
+
+.about {
+    margin-left: 100px;
+    
+}
